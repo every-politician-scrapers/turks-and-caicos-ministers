@@ -1,20 +1,24 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Turks and Caicos Islands",
+      "id": "Q18221"
+    },
+    "country": {
+      "name": "United Kingdom",
+      "id": "Q145"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q109776355",
+      "start": "2021-02-24",
+      "parent": "Q5015586"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.gov.tc/premier/cabinet",
+        "title": "The Cabinet of the Turks and Caicos Islands",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/turks-and-caicos-ministers"
 }
