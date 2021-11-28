@@ -1,1 +1,6 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q105962944,Erwin Jay Saunders,Erwin Jay Saunders,male,,,,,Q108803500,Deputy Premier of the Turks and Caicos Islands,Q105962944-308ED3ED-2E75-41F3-9584-982B27D633A5
+Q105962944,Erwin Jay Saunders,Erwin Jay Saunders,male,,,,,Q108803505,"Minister of Finance, Investment & Trade",Q105962944-B4290252-E706-436D-832C-7CC30847D6E0
+Q23762586,Anya Williams,Anya Williams,female,1980-01-01,9,,,Q16829402,Deputy Governor of the Turks and Caicos Islands,Q23762586-4E925733-FA81-4187-B533-0DD50244917E
+Q7972058,Washington Misick,Washington Misick,male,1950-03-13,11,,,Q3401756,Premier of the Turks and Caicos Islands,Q7972058-29bced3c-40d8-94fa-dd95-87c4f6e57a93
+Q89296347,Nigel Dakin,Nigel Dakin,male,1964-02-28,11,,,Q3112726,Governor of the Turks and Caicos Islands,Q89296347-AD2E5A75-10E3-485D-9F21-92B7DD65548A
