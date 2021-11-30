@@ -223,18 +223,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "turkscaicos-politician-stub"
-        }
-      ]
     }
   ]
 }
