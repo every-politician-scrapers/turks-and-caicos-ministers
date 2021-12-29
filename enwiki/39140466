@@ -16,8 +16,13 @@
         {
           "sentences": [
             {
-              "text": "Josephine Olivia Connolly is a businesswoman and an elected member of the Turks and Caicos Islands House of Assembly.",
+              "text": "Josephine Olivia Connolly MP is a businesswoman and an elected member of the Turks and Caicos Islands House of Assembly.",
               "links": [
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
                 {
                   "type": "internal",
                   "page": "Turks and Caicos Islands"
