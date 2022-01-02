@@ -281,28 +281,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Hon. Josephine Conolly",
-          "url": "https://gov.tc/hoa/hon-josephine-conolly",
-          "website": "HOUSE OF ASSEMBLY, GOVERNMENT OF THE TURKS AND CAICOS ISLANDS",
-          "accessdate": "20 February 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
