@@ -2,12 +2,13 @@
   "title": "Anya Williams",
   "pageID": 49405579,
   "categories": [
-    "Living people",
-    "Women accountants",
-    "Deputy Governors of the Turks and Caicos Islands",
-    "Government accounting officials",
     "1980 births",
-    "21st-century British women politicians"
+    "Deputy Governors of the Turks and Caicos Islands",
+    "Florida International University alumni",
+    "Government accounting officials",
+    "Living people",
+    "Turks and Caicos Islands women in politics",
+    "Women accountants"
   ],
   "sections": [
     {
@@ -17,13 +18,8 @@
         {
           "sentences": [
             {
-              "text": "Anya Williams (born 8 October 1980) is a Turks and Caicos islander, who is currently serving as Deputy Governor of the Turks and Caicos Islands.",
+              "text": "Anya Williams (born 8 October 1980) is a Turks and Caicos Islander politician who is currently serving as Deputy Governor of the Turks and Caicos Islands since 15 October 2012.",
               "links": [
-                {
-                  "text": "Turks and Caicos islander",
-                  "type": "internal",
-                  "page": "Turks and Caicos Islands"
-                },
                 {
                   "type": "internal",
                   "page": "Deputy Governor of the Turks and Caicos Islands"
@@ -90,13 +86,6 @@
           "template": "use dmy dates"
         },
         {
-          "df": "y",
-          "year": "1980",
-          "month": "October",
-          "day": "8",
-          "template": "birth date and age"
-        },
-        {
           "template": "date",
           "data": {
             "df": "yes",
@@ -106,29 +95,22 @@
             "template": "start date",
             "text": "October 15, 2012"
           }
+        },
+        {
+          "df": "y",
+          "year": "1980",
+          "month": "October",
+          "day": "8",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
         {
+          "name": {
+            "text": "Anya Williams"
+          },
           "image": {
             "text": "Deputy Governor Anya Williams.jpg"
-          },
-          "birth_place": {
-            "text": "Grand Turk Island, Turks and Caicos Islands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grand Turk Island"
-              },
-              {
-                "type": "internal",
-                "page": "Turks and Caicos Islands"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1980",
-            "number": 1980
           },
           "office": {
             "text": "Deputy Governor of the Turks and Caicos Islands",
@@ -139,17 +121,8 @@
               }
             ]
           },
-          "termstart": {
+          "term_start": {
             "text": "October 15, 2012"
-          },
-          "alma_mater": {
-            "text": "Florida International University (MS)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Florida International University"
-              }
-            ]
           },
           "governor": {
             "text": "Nigel Dakin\nJohn Freeman\nPeter Beckingham\nRic Todd",
@@ -179,6 +152,32 @@
               {
                 "type": "internal",
                 "page": "Mahala Wynns"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1980",
+            "number": 1980
+          },
+          "birth_place": {
+            "text": "Grand Turk Island, Turks and Caicos Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Grand Turk Island"
+              },
+              {
+                "type": "internal",
+                "page": "Turks and Caicos Islands"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Florida International University (MS)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florida International University"
               }
             ]
           }
