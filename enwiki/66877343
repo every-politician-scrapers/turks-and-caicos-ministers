@@ -1,217 +1,24 @@
 {
-  "title": "Erwin Jay Saunders",
-  "pageID": 66877343,
-  "categories": [
-    "Progressive National Party (Turks and Caicos Islands) politicians",
-    "Turks and Caicos Islands politicians",
-    "Year of birth missing (living people)",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Erwin Jay Saunders, also known as E. Jay Saunders, is a Turks and Caicos Islands businessman and politician serving as the Deputy Premier of the Turks and Caicos Islands as of 20 February 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Turks and Caicos Islands"
-                },
-                {
-                  "text": "Deputy Premier",
-                  "type": "internal",
-                  "page": "Deputy Premier of the Turks and Caicos"
-                },
-                {
-                  "type": "internal",
-                  "page": "Turks and Caicos Islands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Erwin Jay Saunders,",
-                  "E. Jay Saunders"
-                ]
-              }
-            },
-            {
-              "text": "He is the son of former Chief Minister Norman Saunders and former Speaker of the House, Emily Saunders.",
-              "links": [
-                {
-                  "text": "Norman Saunders",
-                  "type": "internal",
-                  "page": "Norman Saunders (politician)"
-                },
-                {
-                  "text": "Speaker of the House",
-                  "type": "internal",
-                  "page": "List of speakers of the Turks and Caicos Islands House of Assembly"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "March 2021",
-          "template": "one source"
-        }
-      ],
-      "infoboxes": [
-        {
-          "office": {
-            "text": "Deputy Premier of the\nTurks and Caicos Islands"
-          },
-          "termstart": {
-            "text": "20 February 2021"
-          },
-          "premier": {
-            "text": "Charles Washington Misick",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Washington Misick"
-              }
-            ]
-          },
-          "governor": {
-            "text": "Nigel Dakin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nigel Dakin"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Norman Saunders\n\nEmily Saunders",
-            "links": [
-              {
-                "text": "Norman Saunders",
-                "type": "internal",
-                "page": "Norman Saunders (politician)"
-              }
-            ]
-          },
-          "party": {
-            "text": "Progressive National Party",
-            "links": [
-              {
-                "text": "Progressive National Party",
-                "type": "internal",
-                "page": "Progressive National Party (Turks and Caicos Islands)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Indrani Saunders (m. 1996)"
-          },
-          "office2": {
-            "text": "Member of Parliament\nfor All Island District",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "House of Assembly (Turks and Caicos Islands)"
-              }
-            ]
-          },
-          "honorific_suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "alongside2": {
-            "text": "Washington Misick\nJosephine Connolly\nJamell Rayan Robionson\nShaun David Malcolm",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Washington Misick"
-              },
-              {
-                "type": "internal",
-                "page": "Josephine Connolly"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "20 February 2021"
-          },
-          "governor2": {
-            "text": "Nigel Dakin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nigel Dakin"
-              }
-            ]
-          },
-          "honorific_prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "premier2": {
-            "text": "Charles Washington Misick",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Washington Misick"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Finance, Investment & Trade"
-          },
-          "termstart3": {
-            "text": "6 August 2021"
-          },
-          "predecessor3": {
-            "text": "Washington Misick",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Washington Misick"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Health, Agriculture, Sports and Human Services"
-          },
-          "termstart4": {
-            "text": "24 February 2021"
-          },
-          "predecessor4": {
-            "text": "Edwin Astwood",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edwin Astwood"
-              }
-            ]
-          },
-          "termend4": {
-            "text": "6 August 2021"
-          },
-          "successor4": {
-            "text": "Jamell Robinson"
-          }
-        }
-      ]
-    }
-  ]
+  "office": "Deputy Premier of the\nTurks and Caicos Islands",
+  "termstart": "20 February 2021",
+  "premier": "Charles Washington Misick",
+  "governor": "Nigel Dakin",
+  "parents": "Norman Saunders\n\nEmily Saunders",
+  "party": "Progressive National Party",
+  "spouse": "Indrani Saunders (m. 1996)",
+  "office2": "Member of Parliament\nfor All Island District",
+  "honorific_suffix": "MP",
+  "alongside2": "Washington Misick\nJosephine Connolly\nJamell Rayan Robionson\nShaun David Malcolm",
+  "termstart2": "20 February 2021",
+  "governor2": "Nigel Dakin",
+  "honorific_prefix": "The Honourable",
+  "premier2": "Charles Washington Misick",
+  "office3": "Minister of Finance, Investment & Trade",
+  "termstart3": "6 August 2021",
+  "predecessor3": "Washington Misick",
+  "office4": "Minister of Health, Agriculture, Sports and Human Services",
+  "termstart4": "24 February 2021",
+  "predecessor4": "Edwin Astwood",
+  "termend4": "6 August 2021",
+  "successor4": "Jamell Robinson"
 }

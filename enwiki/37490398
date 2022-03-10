@@ -1,184 +1,24 @@
 {
-  "title": "Akierra Missick",
-  "pageID": 37490398,
-  "categories": [
-    "1983 births",
-    "Living people",
-    "Alumni of the University of Nottingham",
-    "American emigrants to the Turks and Caicos Islands",
-    "Politicians from Miami",
-    "Government ministers of the Turks and Caicos Islands",
-    "Members of the Turks and Caicos Islands House of Assembly",
-    "Progressive National Party (Turks and Caicos Islands) politicians",
-    "Former United States citizens",
-    "Turks and Caicos Islands lawyers",
-    "Women government ministers of the Turks and Caicos Islands",
-    "21st-century American women politicians",
-    "21st-century American politicians",
-    "Education ministers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Akierra Mary Deanne Missick (born 1983) is a Turks and Caicos Islands lawyer and politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Turks and Caicos Islands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Akierra Mary Deanne Missick"
-                ]
-              }
-            },
-            {
-              "text": "She serves as Leader of Government Business and Minister of Infrastructure, Housing Planning and Development as of 22 February 2021."
-            },
-            {
-              "text": "Missick was re-elected in the 2021 general election as the MP for Leeward & Long Bay ED5 for the third consecutive term."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1983",
-          "month": "5",
-          "day": "11",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Akierra Missick"
-          },
-          "image": {
-            "text": "Hon. Akierra Mary Deanne Missick.jpg"
-          },
-          "office": {
-            "text": "Deputy Premier of the Turks and Caicos Islands"
-          },
-          "term_start": {
-            "text": "13 November 2012"
-          },
-          "term_end": {
-            "text": "20 December 2016"
-          },
-          "predecessor": {
-            "text": "office suspended"
-          },
-          "successor": {
-            "text": "Sean Rickard Astwood"
-          },
-          "birth_date": {
-            "text": "May 11, 1983"
-          },
-          "birth_place": {
-            "text": "U.S."
-          },
-          "party": {
-            "text": "Progressive National Party",
-            "links": [
-              {
-                "text": "Progressive National Party",
-                "type": "internal",
-                "page": "Progressive National Party (Turks and Caicos Islands)"
-              }
-            ]
-          },
-          "governor": {
-            "text": "Ric Todd\nPeter Beckingham\nJohn Freeman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ric Todd"
-              },
-              {
-                "type": "internal",
-                "page": "Peter Beckingham"
-              },
-              {
-                "text": "John Freeman",
-                "type": "internal",
-                "page": "John Freeman (diplomat)"
-              }
-            ]
-          },
-          "honorific_suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "honorific_prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of Parliament\nfor Leeward & Long Bay",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "House of Assembly (Turks and Caicos Islands)"
-              }
-            ]
-          },
-          "nickname": {
-            "text": "AK"
-          },
-          "termstart2": {
-            "text": "12 November 2012"
-          },
-          "predecessor2": {
-            "text": "Galmo Williams",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Galmo Williams"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Infrastructure, Housing Planning and Development"
-          },
-          "termstart3": {
-            "text": "22 February 2021"
-          },
-          "premier3": {
-            "text": "Washington Misick",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Washington Misick"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Leader of Government Business"
-          },
-          "termstart4": {
-            "text": "22 February 2021"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Akierra Missick",
+  "image": "Hon. Akierra Mary Deanne Missick.jpg",
+  "office": "Deputy Premier of the Turks and Caicos Islands",
+  "term_start": "13 November 2012",
+  "term_end": "20 December 2016",
+  "predecessor": "office suspended",
+  "successor": "Sean Rickard Astwood",
+  "birth_date": "May 11, 1983",
+  "birth_place": "U.S.",
+  "party": "Progressive National Party",
+  "governor": "Ric Todd\nPeter Beckingham\nJohn Freeman",
+  "honorific_suffix": "MP",
+  "honorific_prefix": "The Honourable",
+  "office2": "Member of Parliament\nfor Leeward & Long Bay",
+  "nickname": "AK",
+  "termstart2": "12 November 2012",
+  "predecessor2": "Galmo Williams",
+  "office3": "Minister of Infrastructure, Housing Planning and Development",
+  "termstart3": "22 February 2021",
+  "premier3": "Washington Misick",
+  "office4": "Leader of Government Business",
+  "termstart4": "22 February 2021"
 }
